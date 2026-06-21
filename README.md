@@ -16,7 +16,7 @@ Servidor señuelo multi-servicio que simula servicios vulnerables para detectar 
 ## Instalación
 
 ```bash
-git clone https://github.com/tuusuario/honeypot.git
+git clone https://github.com/walterjaldin/honeypot.git
 cd honeypot
 chmod +x honeypot.py
 ```
